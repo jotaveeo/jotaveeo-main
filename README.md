@@ -47,10 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jotaveeo/jotaveeo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗 | C𝚘𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗𝚊𝚕 E𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐  | T𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 S𝚞𝚙𝚙𝚘𝚛𝚝</p>
 
 ###
