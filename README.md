@@ -1,4 +1,3 @@
-# jotaveeo-main
 <h2 align="center">Hello World!<br>My name is João and i'm a DEV, from Brazil.</h2>
 
 ###
