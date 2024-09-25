@@ -1,4 +1,4 @@
-<h2 align="center">>My name is João and i'm a DEV, from Brazil.</h2>
+<h2 align="center">>My name is João.</h2>
 
 ###
 
